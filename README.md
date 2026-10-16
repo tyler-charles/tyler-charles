@@ -3,6 +3,7 @@
 - 🔭 Exploring Learn 2 Cloud
 - 🌱 Searching for entry-level opportunities in Norway
 - 📫 How to reach me: Call me, beep me
+- ⚡ Fun fact: I like to play strategy games
 <!--
 **uhfreeman/uhfreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
